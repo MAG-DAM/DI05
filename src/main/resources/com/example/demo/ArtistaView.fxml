@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="453.0" stylesheets="@main.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.ArtistaController">
+   <children>
+      <ListView fx:id="LV_Artistas" prefHeight="400.0" prefWidth="488.0" stylesheets="@main.css">
+         <styleClass>
+            <String fx:value="list-View" />
+            <String fx:value="list-Cell" />
+            <String fx:value="list-cell" />
+         </styleClass>
+         <VBox.margin>
+            <Insets />
+         </VBox.margin></ListView>
+   </children>
+</VBox>

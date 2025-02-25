@@ -1,2 +1,3 @@
 # DI05
 TAREA PARA DI05:  Aplicación generación de informes
+ALUMNO: MIGUEL ANGEL GUERRERO LÁZARO NRE:13161516
